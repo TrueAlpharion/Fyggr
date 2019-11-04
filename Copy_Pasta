@@ -1,1 +1,6 @@
-
+Longbow = {
+  attack_parrameters = {
+    ammo_category = "arrow",
+    cooldown = 15,
+    movement_slowdown_factor = 0.2
+    
